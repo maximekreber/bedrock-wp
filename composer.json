@@ -38,6 +38,7 @@
     "roots/wp-password-bcrypt": "1.0.0",
     "vlucas/phpdotenv": "^3.4.0",
     "wpackagist-plugin/elementor": "^2.7",
+    "wpackagist-plugin/events-manager": "^5.9",
     "wpackagist-theme/oceanwp": "^1.7"
   },
   "require-dev": {
