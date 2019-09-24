@@ -70,6 +70,6 @@
     "test": [
       "phpcs"
     ],
-    "start": ["php -S localhost:8000 -d display_errors=1 -t ./web/wp"]
+    "start": ["php -S localhost:8000 -d display_errors=1 -t ./web"]
   }
 }
