@@ -41,6 +41,7 @@
     "wpackagist-plugin/elementor": "^2.7",
     "wpackagist-plugin/events-manager": "^5.9",
     "wpackagist-plugin/wordpress-seo": "^12.1",
+    "wpackagist-plugin/wp-mail-smtp": "^1.6",
     "wpackagist-theme/oceanwp": "^1.7"
   },
   "require-dev": {
